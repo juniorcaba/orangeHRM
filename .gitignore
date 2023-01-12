@@ -8,6 +8,3 @@
 *.flv
 *.mov
 *.wmv
-
-# Node artifact files
-node_modules
